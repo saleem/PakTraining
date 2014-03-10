@@ -6,12 +6,13 @@
 We recommend the workshop be scheduled during the summer break.
 This helps the attendees: they can put the learning from this workshop in practice in the fall semester.
 
-##Day 1:
+The workshop will be five days long and will include sessions on the following topics:
 
 * Hopes and concerns - what are the collective aspirations of the attendees regarding the workshop.
-* 
-
-##Day 2:
+* Engines and anchors - discover things that empower us and those that inhibit us from accomplishing our goals.
+* User personas - learn how to think about and represent end-users as real people with real needs
+* Buy vs build - learn the pros and cons of using pre-designed software and custom-written software
+* Requirements  
 
 #What makes this workshop unique
 Cross-disciplinary / inter-disciplinary learning combining Eduction and Computer Science.
@@ -22,14 +23,11 @@ The workshop facilitators have experience in offering similar content in other s
 
 #Outcomes of workshop
 
-## Learn how to design better software
-## Learn how to make better buy vs build decisions
-## Adopt best practices for understanding and meeting the needs of users  
-   
-## Requirements for the users (trainer and students)
+* Learn how to design better software
+* Learn how to make better buy vs build decisions
+* Adopt best practices for understanding and meeting the needs of users  
 
-
-#Three Areas:
+#Three Focus Areas:
 
 Knowledge
   - What do we know already as individuals and as a group to accelerate the goals of the project.
