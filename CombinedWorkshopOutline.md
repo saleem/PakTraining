@@ -1,21 +1,53 @@
-#Intent of workshop
-## Learn the process of creating educational software from a holistic perspective
+#Purpose of workshop
+Learn the process of creating educational software from a holistic perspective.
 
+#Abstract
+This is a 5-day workshop and its purpose is to provide broad insights to the design of educational software. The primary target audience are the faculty and students of MS in Innovative Technologies in Education at NUST.
 
-#Structure of workshop
-We recommend the workshop be scheduled during the summer break.
-This helps the attendees: they can put the learning from this workshop in practice in the fall semester.
+The content of the workshop (defined below) is broad and interdisciplinary; drawing its theoretical basis from Education, Cognitive Sciences and Computer Science. However, the workshop is very much hands-on and practice-focused; making it suitable for students and faculty from other departments and degree programs within NUST.
 
-The workshop will be five days long and will include sessions on the following topics:
+We recommend the workshop be scheduled during the summer break. This helps the attendees: they can put the learning from this workshop in practice in the fall semester.
 
-* Hopes and concerns - what are the collective aspirations of the attendees regarding the workshop.
+#Outline
+
+The workshop will be five days long and will include collaborative sessions on the following topics:
+
+## Day 0: (before the workshop)
+Before the workshop, the participants will be asked to complete a brief (10-15 minutes) survey. 
+
+Facilitators will use this survey to work with the individual needs and contexts of the paricipants. 
+
+## Day 1:
+
+* Hopes and concerns - what are the collective aspirations of the attendees regarding the workshop. 
 * Engines and anchors - discover things that empower us and those that inhibit us from accomplishing our goals.
-* User personas - learn how to think about and represent end-users as real people with real needs
+* Estabilishing a Vision - establish a clear perspective and scope for our product
+
+## Day 2:
+
+* Process and product - what is the difference, and what is the siginificance of each.
+* Requirements - learning how to express software requirements that can be delivered in small increments.
 * Buy vs build - learn the pros and cons of using pre-designed software and custom-written software
-* Requirements  
+
+## Day 3:
+
+* User personas - learn how to think about and represent end-users of our software as real people with real needs.
+* Estimation - learn how to assign numerical estimates to software requirements
+* Cross-cutting concerns - learning about aspects of software that aren't directly related to user requirements.
+
+## Day 4
+
+* Planning and prioritization - Learning how to triage amongst potentially unlimited requirements and practical resource constraints
+* Establishing cadence and continuity - how to enable software delivery teams to work independently and share continuously the outcome of their work.
+* Ensuring Quality in software - learn about the "who, what and when" of ensuring software meets quality requirements
+
+## Day 5
+
+* Technical considerations - continuous delivery, automation, testing.
+* Retrospective of the workshop
 
 #What makes this workshop unique
-Cross-disciplinary / inter-disciplinary learning combining Eduction and Computer Science.
+This workshopd draws on Cross-disciplinary / inter-disciplinary learning combining Eduction and Computer Science.
 
 This is timely and necessary for the attendees.
 
@@ -23,8 +55,8 @@ The workshop facilitators have experience in offering similar content in other s
 
 #Outcomes of workshop
 
-* Learn how to design better software
-* Learn how to make better buy vs build decisions
+* Learn practical techniques to design better software
+* Acquire an appreciation for how to tackle the complexity of building software
 * Adopt best practices for understanding and meeting the needs of users  
 
 #Three Focus Areas:
