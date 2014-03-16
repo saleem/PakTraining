@@ -55,23 +55,25 @@ The workshop facilitators have experience in offering similar content in other s
 
 #Outcomes of workshop
 
-* Learn practical techniques to design better software
+* Learn practical techniques to design better educational software
 * Acquire an appreciation for how to tackle the complexity of building software
 * Adopt best practices for understanding and meeting the needs of users  
 
 #Three Focus Areas:
 
 Knowledge
-  - What do we know already as individuals and as a group to accelerate the goals of the project.
-  - E.g. if we have programming experience, we can move forward quickly. Otherwise we will spend time in the Mindset piece.
-  - Very miniscule (Cataloguing of existing knowledge in the room) - 2 hour session.
+
+* Catologuing: Examine what know already as individuals and as a group to accelerate the goals of the workshop project. 
+* Adopting/Adapting: Best practices that may challenge and push our thinking about interdeisplinary program experiences.
 
 Mindset
-  - Evaluation of what exists. Trying to shift from what exists to what you want to create.
+
+* Assessment: Invesitigate what we understand to exist in programming and the educational software world. 
+* Development: Try to shift from what exists to what you want to create.
   - 1/3 of total time. Integrated throughought the course.
 
 Skill
-  - Rapid prototyping; adapting existing things to fulfil new needs
-  - Training of skills in a collaborative, hands-on way.
-  - Remaining
+
+*Rapid prototyping; adapting existing things to fulfil new needs
+*Training of skills in a collaborative, hands-on way.
  
